@@ -1,0 +1,29 @@
+
+
+MANAGER
+Name: LUCY GOOSEY
+Staff ID: 1000
+Password: goosey
+Number of Shifts Per Week: 3
+Rating: 5.00
+
+EMPLOYEE
+Name: HANNAH BANANA
+Staff ID: 4000
+Password: banana
+Number of Shifts Per Week: 3
+Hourly Wage: $14.0
+
+EMPLOYEE
+Name: SAM BAM
+Staff ID: 3000
+Password: bam
+Number of Shifts Per Week: 5
+Hourly Wage: $19.0
+
+EMPLOYEE
+Name: NATE LATE
+Staff ID: 2000
+Password: late
+Number of Shifts Per Week: 6
+Hourly Wage: $18.0
